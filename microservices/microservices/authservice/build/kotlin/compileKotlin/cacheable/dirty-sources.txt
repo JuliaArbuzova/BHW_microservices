@@ -1,7 +1,0 @@
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\controller\AuthConroller.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\model\Session.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\AuthServiceApplication.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\service\UserService.kt.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\rep\SessionRep.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\rep\UserRep.kt
-C:\Users\user\Downloads\microservices\microservices\authservice\src\main\kotlin\com\example\auth\model\User.kt
